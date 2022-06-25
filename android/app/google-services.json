@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415736729467",
+    "project_id": "roomlearneachother",
+    "storage_bucket": "roomlearneachother.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415736729467:android:b077c370b449917a1f37de",
+        "android_client_info": {
+          "package_name": "com.example.room_learn_each_other"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415736729467-gfjj5l9rmfs93kab6cij5uqt72od1jij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.room_learn_each_other",
+            "certificate_hash": "0a27222806d2ce144476d123803749a54ee430fc"
+          }
+        },
+        {
+          "client_id": "415736729467-5kubgesva7mo06fsu0cqadagt2vlngcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAT4aZBPaLqEHVqyvSKQSplRS-avqye-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415736729467-5kubgesva7mo06fsu0cqadagt2vlngcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
